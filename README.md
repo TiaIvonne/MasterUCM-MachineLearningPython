@@ -1,0 +1,2 @@
+# MasterUCM-MachineLearningPython
+This practice wants to apply diverse machine-learning techniques and algorithms using sklearn with python to get predictions in different datasets (exercises 1 and 2). Before modeling and predicting with algorithms, this exercise needs to do primary data analysis, data cleaning, and some transformation in specific columns (using panda's dummies or one hot encoding, etc.)
